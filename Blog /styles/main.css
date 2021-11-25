@@ -6,6 +6,11 @@ body {font-family: 'Coming Soon', cursive;
 h2 {
   text-decoration: underline;}
 
+  h3{
+    color: powderblue;
+    font-weight: bolder;
+  }
+
   p{ font-size: 18px;}
 
 .style {color: #D87093;}
@@ -16,7 +21,7 @@ display: block;
   margin-right: auto;
   width: 50%;}
 
-.pic2{eight: auto; 
+.pic2{height: auto; 
     display: block;
       margin-left: auto;
       margin-right: auto;
@@ -47,7 +52,9 @@ border: 20px;}
 
 .box{border: auto, #8FBC8F;}
 
- 
-}
-
-
+.img {height: auto; 
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+  }
